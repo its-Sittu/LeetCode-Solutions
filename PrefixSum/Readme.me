@@ -1,0 +1,96 @@
+PreFix Sum kaya hota hai ..
+statring index se lekr end elements tak har ek ek elements add krte krte le jata hai 
+prefix[i] = sum till i-1
+SuffixSum bhi ashe hi krte hai but woh last se lekr first tak add krta jata hai 
+suffix[i] = sum from i+1 to end
+
+Prefix Sum ..........................................................................................................................................................................................................
+
+
+PrefixSum[i] = Prefix[i-1] + nums[i-1]
+Example:
+
+Suppose:
+
+nums = [2, 5, 3, 7]
+We want PrefixSum (cumulative sum array).
+
+Step-by-step dry run:
+1️⃣ Initialization:
+PrefixSum[0] = nums[0] = 2
+
+PrefixSum = [2, ?, ?, ?]
+2️⃣ i = 1:
+
+PrefixSum[1] = PrefixSum[0] + nums[1]
+              = 2 + 5
+              = 7
+PrefixSum = [2, 7, ?, ?]
+
+3️⃣ i = 2:
+PrefixSum[2] = PrefixSum[1] + nums[2]
+              = 7 + 3
+              = 10
+PrefixSum = [2, 7, 10, ?]
+
+4️⃣ i = 3:
+PrefixSum[3] = PrefixSum[2] + nums[3]
+              = 10 + 7
+              = 17
+
+PrefixSum = [2, 7, 10, 17]
+
+✅ Final PrefixSum array:
+[2, 7, 10, 17]
+
+
+
+
+
+
+
+
+
+
+SuffixSum............................................................................................................................................................................................................
+
+
+
+SuffixSum[i] = Suffix[i+1] + nums[i+1];
+
+
+Step 0: Initialize SuffixSum array
+nums = [2, 5, 3, 7]
+SuffixSum = [?, ?, ?, ?]   // same length as nums
+
+Step 1: Start from the last element (i = 3)
+SuffixSum[3] = nums[3] = 7
+SuffixSum = [?, ?, ?, 7]
+
+Step 2: Move to i = 2
+SuffixSum[2] = SuffixSum[3] + nums[2]
+              = 7 + 3
+              = 10
+SuffixSum = [?, ?, 10, 7]
+
+Step 3: Move to i = 1
+SuffixSum[1] = SuffixSum[2] + nums[1]
+              = 10 + 5
+              = 15
+SuffixSum = [?, 15, 10, 7]
+
+Step 4: Move to i = 0
+SuffixSum[0] = SuffixSum[1] + nums[0]
+              = 15 + 2
+              = 17
+SuffixSum = [17, 15, 10, 7]
+
+
+✅ Final SuffixSum array: [17, 15, 10, 7]
+
+
+
+
+
+
+
