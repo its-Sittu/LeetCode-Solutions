@@ -1,4 +1,4 @@
-# LeetCode Solutions 🚀.
+# LeetCode Solutions 🚀
 
 This repository contains my daily LeetCode practice solutions.
 
