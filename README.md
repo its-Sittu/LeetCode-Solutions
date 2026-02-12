@@ -13,5 +13,5 @@ This repository contains my daily LeetCode practice solutions.
 - Stack & Queue
 - Trees
 - Recursion
-- Dynamic Programming....
+- Dynamic Programming
   
