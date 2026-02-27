@@ -3,7 +3,7 @@
 This repository contains my daily LeetCode practice solutions.
 
 - Language: Java
-- Focus: Data Structures & Algorithms
+- Focus: Data Structures & Algorithms.
 - Goal: Consistency and problem-solving improvement
 
 ## Topics Covered
