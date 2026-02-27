@@ -1,9 +1,9 @@
-# LeetCode Solutions 🚀.
+# LeetCode Solutions 🚀
 
 This repository contains my daily LeetCode practice solutions.
 
 - Language: Java
-- Focus: Data Structures & Algorithms.
+- Focus: Data Structures & Algorithms
 - Goal: Consistency and problem-solving improvement
 
 ## Topics Covered
@@ -13,7 +13,7 @@ This repository contains my daily LeetCode practice solutions.
 - Stack & Queue
 - Trees
 - Recursion
-- Dynamic Programming.
+- Dynamic Programming
   
 
 
