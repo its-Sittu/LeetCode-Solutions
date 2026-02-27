@@ -8,12 +8,12 @@ This repository contains my daily LeetCode practice solutions.
 
 ## Topics Covered
 - Arrays 
-- Strings
+- Strings  
 - Linked List
 - Stack & Queue
 - Trees
 - Recursion
-- Dynamic Programming
+- Dynamic Programming.
   
 
 
