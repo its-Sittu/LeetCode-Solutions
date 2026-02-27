@@ -7,7 +7,7 @@ This repository contains my daily LeetCode practice solutions.
 - Goal: Consistency and problem-solving improvement
 
 ## Topics Covered
-- Arrays
+- Arrays 
 - Strings
 - Linked List
 - Stack & Queue
