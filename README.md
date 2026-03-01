@@ -11,7 +11,7 @@ This repository contains my daily LeetCode practice solutions.
 - Strings  
 - Linked List
 - Stack & Queue
-- Trees
+- Trees     
 - Recursion
 - Dynamic Programming
   
