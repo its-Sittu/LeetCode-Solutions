@@ -28,3 +28,7 @@ class Solution {
     return water;
     }
 }  // time complexcity o(3n) due to 3 loops 
+
+
+
+// Stack (optimise Code)
