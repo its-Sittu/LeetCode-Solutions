@@ -27,4 +27,4 @@ class Solution {
     }
     return water;
     }
-}  // time complexcity o(3n) 
+}  // time complexcity o(3n) due to
