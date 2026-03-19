@@ -31,4 +31,7 @@ class Solution {
 
 
 
+
+
 // Stack (optimise Code)
+// time complexcity O(n)
