@@ -22,4 +22,4 @@ class Solution {
 
 
 
-//Optimal Solution
+//Optimal Code
