@@ -1,3 +1,4 @@
+//Brute code
 class Solution {
     public long subArrayRanges(int[] nums) {
         int n = nums.length;
