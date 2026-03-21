@@ -18,3 +18,8 @@ class Solution {
         return sum;
     }
 }
+
+
+
+
+//Optimal Solution
