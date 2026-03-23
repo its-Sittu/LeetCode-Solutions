@@ -42,6 +42,19 @@ class Solution {
     }
 }
 
+// 🧠 Space Complexity (SC)
+// pse[] array → O(n)
+// nse[] array → O(n)
+// stack → worst case O(n)
+
+// 👉 Total:
+
+// O(n)
+
+
+// Time Complexity (TC)
+
+
 
 
 // Optimise Code
