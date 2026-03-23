@@ -46,15 +46,20 @@ class Solution {
 // pse[] array → O(n)
 // nse[] array → O(n)
 // stack → worst case O(n)
-
 // 👉 Total:
-
 // O(n)
 
 
+
 // Time Complexity (TC)
+// PSE loop → O(n)
+// NSE loop → O(n)
+// Final area loop → O(n)
+// 👉 Total:
+// O(n) + O(n) + O(n) = O(n)
 
 
 
 
+    
 // Optimise Code
