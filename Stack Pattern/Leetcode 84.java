@@ -6,7 +6,6 @@
 
 
 // Brute force
-
 class Solution {
     public int largestRectangleArea(int[] heights) {
 
