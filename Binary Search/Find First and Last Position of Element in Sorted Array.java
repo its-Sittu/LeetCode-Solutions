@@ -1,4 +1,5 @@
-
+// Optimse Code
+// pehele fisrt Occurence find Karo than Last 
 
 
 class Solution {
