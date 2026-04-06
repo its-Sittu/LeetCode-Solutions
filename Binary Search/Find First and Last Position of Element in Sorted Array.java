@@ -1,6 +1,6 @@
 // Optimse Code
-// pehele fisrt Occurence find Karo than Last 
-
+// pehele first Occurence find Karo than Last 
+// Based on Binary Search
 
 
 class Solution {
