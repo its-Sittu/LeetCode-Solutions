@@ -2,7 +2,7 @@
 // optimise Code
 
 
-
+// points to remember......................................
 
 // check kiya element mila ya nahi
 // phir dekha kaunsa half sorted hai
