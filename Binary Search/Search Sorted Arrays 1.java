@@ -2,12 +2,18 @@
 // optimise Code
 
 
+
+
+
+
 // points to remember......................................
 
 // check kiya element mila ya nahi
 // phir dekha kaunsa half sorted hai
 // us sorted half me target aata hai ya nahi
 // uske hisaab se search space half kar diya
+
+
 
 
 class Solution {
