@@ -1,5 +1,5 @@
-// points to remember
-
+r
+// optimise Code
 //mid nikaala
 
 
