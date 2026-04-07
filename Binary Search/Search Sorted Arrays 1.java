@@ -1,5 +1,5 @@
 // points to remember
-// optimise Verson
+// optimise Code
 
 
 
