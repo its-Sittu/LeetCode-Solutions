@@ -1,6 +1,7 @@
-r
+
 // optimise Code
-//mid nikaala
+
+
 
 
 // check kiya element mila ya nahi
