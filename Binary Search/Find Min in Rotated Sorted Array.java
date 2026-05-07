@@ -32,7 +32,8 @@ class Solution {
 
 // REVISION ..................................................................................................
 
-Array: [4, 5, 6, 7, 0, 1, 2]
+Array: [4, 5, 6, 7, 0, 1, 2]                                 💬 1 line summary: "Jis side sorted hai, uska end/start lo as candidate,
+                                                               phir unsorted side mein jao!"
 Step 1:  low=0, high=6, mid=3
          nums[low]=4, nums[mid]=7
          4 <= 7  →  LEFT SORTED
