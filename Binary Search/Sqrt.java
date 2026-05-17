@@ -17,4 +17,5 @@ class Solution {
 }
 
 
-// optimise 
+// optimise ~ by Using Binary Search
+
