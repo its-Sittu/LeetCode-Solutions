@@ -15,3 +15,6 @@ class Solution {
         return ans;
     }
 }
+
+
+// optimise 
