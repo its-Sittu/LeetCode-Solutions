@@ -17,11 +17,9 @@ class Solution {
     }
 }
 
-
-
-
-
-
+// Approach 1 — Linear Search
+// Time  → O(m^(1/n))
+// Space → O(1)
 
 
 
