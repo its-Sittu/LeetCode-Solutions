@@ -31,8 +31,6 @@ class Solution {
 
 
 
-
-
 // optimise code 
 
 class Solution {
@@ -57,3 +55,10 @@ class Solution {
         return -1 ;
     }
 }
+
+
+
+
+// Approach 2 — Binary Search ✅ Recommended
+// Time  → O(log m)
+// Space → O(1)
