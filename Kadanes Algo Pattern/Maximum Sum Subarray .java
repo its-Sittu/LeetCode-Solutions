@@ -7,7 +7,7 @@ class Solution {
         for (int i = 1; i < n; i++) {
             int v1 = bestend + nums[i];
             int v2 = nums[i];
-            bestend = Math.max(v1, v2);
+            bestend = Math.max(v1, v2); 
             ans = Math.max(ans, bestend);
         }
         return ans;
