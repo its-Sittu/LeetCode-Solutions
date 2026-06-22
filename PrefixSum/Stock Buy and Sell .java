@@ -14,3 +14,6 @@ class Solution {
     return ans;
     }
 }
+
+
+// for multiple transactions 
