@@ -16,4 +16,4 @@ class Solution {
 }
 
 
-// for multiple transactions 
+// for multiple transactions value addition
