@@ -24,3 +24,7 @@ class Solution {
         return true;
     }
 }
+
+
+
+// HashMap Optimise code
