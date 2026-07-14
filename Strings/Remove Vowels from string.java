@@ -14,3 +14,6 @@ for(-------------){
 }
 return ans;
 }
+
+
+// Optimise Code 
