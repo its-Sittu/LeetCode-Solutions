@@ -25,3 +25,22 @@ class Solution {
 
 
 // Clean code.......
+
+class Solution {
+    public int lcm(int a, int b) {
+        
+        int product = a * b;
+
+        int x = Math.max(a, b);
+        int y = Math.min(a, b);
+
+        while (y != 0) {
+            int temp = y;
+            y = x % y;
+            x = temp;
+        }
+
+        // x = HCF
+        return product / x;
+    }
+}
