@@ -1,3 +1,5 @@
+// brute Code 
+
 class Solution {
     public long maximumSubarraySum(int[] nums, int k) {
         int n = nums.length;
@@ -26,6 +28,14 @@ class Solution {
         return max;
     }
 }
+
+
+// Revision 
+i = window ko move karta hai
+j = current window ke elements ko traverse karta hai
+set = duplicate check karta hai
+sum = current window ka sum
+max = ab tak ka maximum valid window sum
 
 
 
